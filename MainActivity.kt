@@ -1,6 +1,7 @@
 package com.example.sociallogin
 
 import android.support.v7.app.AppCompatActivity
+import android.util.Base64
 import android.os.Bundle
 import android.content.Intent
 import android.util.Log
